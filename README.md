@@ -1,0 +1,16 @@
+# Extensions
+
+- Auto Rename(Jun Han)
+- Better ReactJS Code Snippet(Sharafdin)
+- ESLint(Microsoft)
+- Live Server(Ritwick Dey)
+- Monokai Pro(monokai)
+- npm intellisense(Christian kohler)
+- Prettier - Code formatter(Prettier)
+- ReactJS Code snippets(charalampos karypidis)
+- Tailwind CSS Intellisense(Tailwind Labs)
+- vscode-icons(VSCode Icons Team)
+- Better Comments(Aaron Bond)
+- Javascript(ES6) code snippets(charalampos karypidis)
+- React Extension pack(Rajbir Jawanda)
+- Search node_modules(Jason Nutter)

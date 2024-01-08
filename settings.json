@@ -1,0 +1,16 @@
+{
+  "editor.guides.bracketPairs": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Cascadia Code'",
+  "editor.cursorBlinking": "expand",
+  "workbench.colorCustomizations": {},
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 32,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.commandCenter": false
+}
