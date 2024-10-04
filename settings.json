@@ -1,16 +1,35 @@
 {
   "editor.guides.bracketPairs": true,
-  "workbench.iconTheme": "vscode-icons",
-  "editor.fontSize": 18,
+  "workbench.iconTheme": "symbols",
+  "editor.fontSize": 16,
   "editor.fontLigatures": true,
-  "editor.fontFamily": "'Cascadia Code'",
-  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "Cascadia Code",
+  // "editor.fontFamily": "'Fira Code",
+  // "editor.fontFamily": "Dank Mono",
+  // "editor.fontFamily": "Jetbrains Mono",
+  "terminal.integrated.fontFamily": "Cascadia Code",
   "workbench.colorCustomizations": {},
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.colorTheme": "Monokai Pro (Filter Machine)",
   "editor.formatOnSave": true,
-  "editor.lineHeight": 32,
+  "editor.lineHeight": 36,
+  "editor.smoothScrolling": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "window.commandCenter": false
+  "window.commandCenter": false,
+  "git.autofetch": true,
+  "editor.cursorBlinking": "expand",
+  "editor.minimap.maxColumn": 100,
+  "git.confirmSync": false,
+  "terminal.integrated.env.windows": {},
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.productIconTheme": "fluent-icons",
+  "animations.Install-Method": "Custom CSS and JS",
+  "animations.Enabled": true,
+  "vscode_custom_css.imports": [
+    "file:///c:/Users/injam/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
+  ],
+  "animations.CursorAnimation": true
 }
